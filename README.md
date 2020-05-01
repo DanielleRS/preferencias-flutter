@@ -1,4 +1,4 @@
-# manipulacao_dadis_preferencias
+# manipulacao_dados_preferencias
 
 Utilizando preferências
 
